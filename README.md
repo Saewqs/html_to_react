@@ -1,3 +1,9 @@
+Команада БАЧАХ/Хакактон accselirator Описание работы прототипа Прототип brainfanse включает следующие функции:
+
+Регистрация комплекса и добавление информации о нем (название, адрес, тип размещения и т.д.)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
